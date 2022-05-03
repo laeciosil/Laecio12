@@ -39,7 +39,7 @@
 
 
 <a href="https://www.linkedin.com/in/laecio/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-laecio.sil-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-laecio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/laecio.sil/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-laecio.sil-05122A?style=flat&logo=instagram" alt="instagram"/>
