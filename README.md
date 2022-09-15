@@ -2,9 +2,9 @@
 <h1 align="left">Hi dear <img  width="30px" height="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>, I'm Laecio Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Laecio12&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Bachelor in Information Systems & focused on web development 
+- 🔥 Bachelor in Information Systems & focused on mobile development 
 
-- 🔭 I'm looking for my first job
+
 
 <br><br>
 
