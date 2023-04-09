@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi dear <img  width="30px" height="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>, I'm Laecio Silva</h1>
+<h1 align="left">Hi dear <img  width="30px" height="30px", I'm Laecio Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Laecio12&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Bachelor in Information Systems & focused on mobile development 
@@ -10,6 +10,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
